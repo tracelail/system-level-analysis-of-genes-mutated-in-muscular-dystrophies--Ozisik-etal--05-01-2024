@@ -1,0 +1,44 @@
+g:Profiler version e109_eg56_p17_1d3191d, database updated on 29/03/2023
+
+hsapiens (Human) - version: GRCh38.p13
+
+GO:MF –
+    annotations: BioMart
+    classes: releases/2023-03-06
+
+GO:CC –
+    annotations: BioMart
+    classes: releases/2023-03-06
+
+GO:BP –
+    annotations: BioMart
+    classes: releases/2023-03-06
+
+KEGG –
+    KEGG FTP Release 2023-03-27
+
+REAC –
+    annotations: BioMart
+    classes: 2023-3-29
+
+WP –
+    20230310
+
+TF –
+    annotations: TRANSFAC Release 2022.2
+    classes: v2
+
+MIRNA –
+    Release 9.0
+
+CORUM –
+    28.11.2022 Corum 4.1
+
+HPA –
+    annotations: HPA website: 22-12-02
+    classes: script: 22-12-20
+
+HP –
+    annotations: 03.2023
+    classes: None
+ 
